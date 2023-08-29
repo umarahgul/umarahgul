@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on javascript testing using jest as a tool and babel as a backend compatibility tool
+- 🔭 I’m currently working on javascript testing using jest as a tool and babel as a backward compatibility tool
 
 - 🌱 I’m currently learning ES6 , javascript testing and best practices 
 
